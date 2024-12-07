@@ -82,3 +82,13 @@ Our system integrates AI and IoT technologies to provide affordable, accessible,
 - **H.B.T.N Karunarathna**: Smart Flow Monitoring and Water Quality Prediction.  
 
 ---
+
+---
+
+## **System Overview Diagram**  
+
+![System Overview Diagram](https://github.com/user-attachments/assets/d2d73cdf-1149-4417-992f-5d2e3db5d3f8)
+
+
+
+---
