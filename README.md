@@ -44,11 +44,11 @@ Our system integrates AI and IoT technologies to provide affordable, accessible,
 ### **4. Predictive Yield Analytics System**  
 - **Description**:  
   - Collects and analyzes historical data to predict crop yield using machine learning models.  
-  - Simulates scenarios to optimize nutrient levels and environmental conditions for maximum productivity.  
+  - Simulates scenarios to optimize nutrient levels and environmental conditions for maximum productivity.
+  - Data model will be enhanced to optimize the yield against growth parameters such as temperature and light (illumination).
 
 - **Novelty**:  
-  - **Seasonal Trend Yield Optimizer**: Enhances yield predictions by aligning forecasts with seasonal patterns, refining accuracy annually.  
-
+  - **Seasonal Trend Yield Optimizer**: IoT device will be developed to check the quality of plantations by monitoring colour and weight.
 ---
 
 ## **How This System Helps**  
